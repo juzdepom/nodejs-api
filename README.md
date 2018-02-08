@@ -2,4 +2,4 @@ Project is based off of this 30 minute [Youtube Tutorial](https://www.youtube.co
 
 The goal of this tutorial is to give you a degree of familiarity with Express, Node and MongoDB.
 
-![postman](screenshots/postman.png)
+![postman](./screenshots/postman.png)
